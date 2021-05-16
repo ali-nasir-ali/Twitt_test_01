@@ -2,7 +2,7 @@ import tweepy
 import os
 from services import tweepy_auth, retweet_favorites
 from dotenv import load_dotenv
-load_dotenv(vdd)
+load_dotenv(vddddddd)
 
 API_KEY = os.getenv('API_KEY')
 API_SECRET = os.getenv('API_SECRET')
